@@ -185,3 +185,5 @@
         }
     }
     ```
+
+### Есть два примера промпта: на [английском](any_result_is_best_prompt.json)(оригинал) и на [русском](any_result_is_best_prompt_ru.json)(перевод выполнен самим ChatGPT).
